@@ -28,6 +28,12 @@ StoreLand is here, create the perfect store for your server without hosting or d
 	📻 Store vanity url (like StoreLand.day/@GmodStore)
 
 	📙  Host up to 5 servers.
+	
+
+## Official version
+
+https://www.gmodstore.com/market/view/storeland-day-start-monetizing-your-garry-s-mod-server
+
 ## Roadmap
 
     🧨 Soon
